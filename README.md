@@ -9,7 +9,8 @@
 ![Static Badge](https://img.shields.io/badge/java-brown)
 ![Static Badge](https://img.shields.io/badge/spring%20boot-green)
 ![Static Badge](https://img.shields.io/badge/java%20scrpit-yellow)
-![Static Badge](https://img.shields.io/badge/oracle-red)
-![Static Badge](https://img.shields.io/badge/mysql-blue)
+![Static Badge](https://img.shields.io/badge/oracle-%23F80000)
+![Static Badge](https://img.shields.io/badge/mysql-%234479A1)
+
 
 

@@ -14,16 +14,9 @@
 
 ## 주요 프로젝트
 
-- [**Project1**](https://google.com) : 뮤지컬 관람 프로젝트입니다. (사용된 기술 : Java, Spring boot)
+- [**isCourse Backend**](https://github.com/cheoljundev/isCourse-backend) : 맞춤형 데이트코스 추천 서비스 백엔드입니다. (사용된 기술 : Java, Spring boot, Jpa, QueryDSL)
+- [**isCourse Frontend**](https://github.com/cheoljundev/isCourse-frontend) : 맞춤형 데이트코스 추천 서비스 프론트엔드입니다. (사용된 기술 : JS, React, REDUX)
 
-<img src="https://github-readme-stats.vercel.app/api?username=cheoljundev&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheoljundev&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=56% />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=cheoljundev&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
-
-## 최근 블로그 포스트
-- [블로그 포스트 제목 1](https://example.com/blog1)
-- [블로그 포스트 제목 2](https://example.com/blog2)
 
 ## 소셜 링크
-- [LinkedIn](https://www.linkedin.com/in/username/)
-- [Twitter](https://twitter.com/username)
+- [LinkedIn](https://www.linkedin.com/in/%EC%B2%A0%EC%A4%80-%EA%B9%80-4aa017240/)
